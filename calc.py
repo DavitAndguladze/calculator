@@ -6,6 +6,7 @@ y = int(input("y: "))
 print(f"Sum: {x + y}")
 print(f"Sub: {x - y}")
 print(f"Mul: {x * y}")
+print(f"Pow: {x ** y}")
 if y == 0:
     print("Can't do it!")
 else:
